@@ -1,0 +1,14 @@
+{
+    "name": "runesofohr",
+    "route": "not-real.site",
+    "compatibility_date": "2025-05-08",
+    "assets": {
+      "directory": "./"
+    },
+    "r2_buckets": [
+      {
+        "bucket_name": "ohr",
+        "binding": "ohr"
+      }
+    ]
+}

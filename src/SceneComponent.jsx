@@ -1,5 +1,5 @@
-import { useEffect, useRef } from "react";
-import { Engine, Scene } from "@babylonjs/core";
+import { useEffect, useRef } from "https://res.not-real.site/react";
+import { Engine, Scene } from "https://res.not-real.site/@babylonjs/core";
 
 export default ({ antialias, engineOptions, adaptToDeviceRatio, sceneOptions, onRender, onSceneReady, ...rest }) => {
   const reactCanvas = useRef(null);

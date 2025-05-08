@@ -1,5 +1,5 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
+import { StrictMode } from 'https://res.not-real.site/react'
+import { createRoot } from 'https://res.not-real.site/react-dom/client'
 import './index.css'
 import App from './App.jsx'
 
